@@ -1,7 +1,8 @@
 # Piao's CSE110
 
 _Hi my name is Piao Xie, a fourth year cs major student in ucsd. I like playing video games, hiking in my free time. ~~Also I like doing workout.~~_
-![Me](me.png)
+
+ ![Me](me.png)
 
 #### LAB1 Contents
 - [Part 1](#part-1)
