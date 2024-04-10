@@ -2,42 +2,56 @@
 
 _Hi my name is Piao Xie, a fourth year cs major student in ucsd. I like playing video games, hiking in my free time. ~~Also I like doing workout.~~_
 
-#### A quote I like is:
-> "Tomorrow is another day."
-
-#### Here's the first code I learned:
-```
-cout << "Hello, World!" << endl;
-```
-
-#### Here's the link to my favorite video game:
-[GUESSS WHAT](https://store.steampowered.com/app/1158310/Crusader_Kings_III/)
-
 #### LAB1 Contents
 -[Part 1](#part-1)
 -[Part 2](#part-2)
 -[Part 3](#part-3)
 
+##### Part 1
+
+##### Part 2
+
 ##### Part 3
-**Relative links**
-[Lab 1](lab1.md)
-![screen shot of Lab 1]()
+**Heading**
+# 哈
 
-#### List of my course this quarter
-1.CSE107
-2.CSE110
-3.CSE130
-4.CSE141
-5.CSE141l
-6.CSE150B
+**Styling text**
+~~The stying text I like to use the most~~
 
-#### List of my favorate animal
-*panda
-*dog
-*cat
-*~~you~~
+**Quoting text:**
+> "Tomorrow is another day."
 
-### Three things I have to do in my life
+**Quoting code: First code I learned:**
+```
+cout << "Hello, World!" << endl;
+```
+
+**External link: Here's my favorite video game:**
+[GUESSS WHAT](https://store.steampowered.com/app/1158310/Crusader_Kings_III/)
+
+**Section link**
+-[Part 1](#part-1)
+-[Part 2](#part-2)
+-[Part 3](#part-3)
+
+**Relative link**
+[Lab 1](Lab1.md)
+
+**Ordered List of my course this quarter**
+1. CSE107
+2. CSE110
+3. CSE130
+4. CSE141
+5. CSE141l
+6. CSE150B
+
+**Unordered List of my favorate animal**
+* panda
+* dog
+* cat
+* ~~you~~
+
+**Task list: Three things I have to do in my life**
 - [x] Bungee Jumping
-- [ ] Go to the North Pole
-- [ ] Earth from outer sapce ~~Soooo Expensive I'll do it in my next life~~
+- [ ] Go to the South Pole
+- [ ] Viewing the Earth from outer space ~~Soooo Expensive I'll do it in my next life~~
