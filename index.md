@@ -40,7 +40,8 @@ int main() {
 ```
 
 **External link: Here's my favorite video game:**
-[GUESSS WHAT] (https://store.steampowered.com/app/1158310/Crusader_Kings_III/)
+
+[GUESSS WHAT](https://store.steampowered.com/app/1158310/Crusader_Kings_III/)
 
 **Section link:**
 - [Part 1](#part-1)
@@ -48,7 +49,8 @@ int main() {
 - [Part 3](#part-3)
 
 **Relative link:**
- [Lab 1] (Lab1.md)
+
+ [Lab 1](Lab1.md)
 
 **Ordered List of my course this quarter:**
 1. CSE107
