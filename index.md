@@ -9,10 +9,11 @@ _Hi my name is Piao Xie, a fourth year cs major student in ucsd. I like playing 
 - [Part 3](#part-3)
 
 ##### Part 1
-![Part 1 screenshot](cse110_lab1_part1.png)
+Installed the VScode and extensions.
 
 ##### Part 2
-![Part 2 screenshot](cse110_lab1_part2.png)
+![Part 2 screenshot1](cse110_lab1_part1.png)
+![Part 2 screenshot2](cse110_lab1_part2.png)
 
 ##### Part 3
 **Heading**
