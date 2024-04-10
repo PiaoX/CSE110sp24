@@ -1,2 +1,1 @@
-# CSE110sp24
-Piao's User Page
+My favorate language is C++
