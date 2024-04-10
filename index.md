@@ -3,9 +3,9 @@
 _Hi my name is Piao Xie, a fourth year cs major student in ucsd. I like playing video games, hiking in my free time. ~~Also I like doing workout.~~_
 
 #### LAB1 Contents
--[Part 1](#part-1)
--[Part 2](#part-2)
--[Part 3](#part-3)
+- [Part 1](#part-1)
+- [Part 2](#part-2)
+- [Part 3](#part-3)
 
 ##### Part 1
 
